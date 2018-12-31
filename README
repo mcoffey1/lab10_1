@@ -7,3 +7,5 @@ Numbers 3 through 9 (as char): Display a purple regular polygon with that many s
 e.g. 6 means a hexagon; use your trig knowledge here!
 The ESC key (ascii 27): Clear the window.
 Letter q: Quit the program.
+
+* Note This program is dependent on the X11 API. It must be installed on the machine running.
