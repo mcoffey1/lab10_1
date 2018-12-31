@@ -1,0 +1,9 @@
+a program called symbol.cpp that opens up a window, and waits for the user to press a key or a mouse button. On each key or button press, it should display a small symbol centered at the current mouse location, as follows:
+
+Left mouse click: Display a blue square outline, of side SIZE
+Letter c: Display a white circle outline, or diameter SIZE
+Letter t: Display a green isoceles triangle outline, of size compatible with the above (you may simplify the math here)
+Numbers 3 through 9 (as char): Display a purple regular polygon with that many sides, inscribable in a circle of diameter SIZE 
+e.g. 6 means a hexagon; use your trig knowledge here!
+The ESC key (ascii 27): Clear the window.
+Letter q: Quit the program.
